@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1.0'
-  title: git test api updated locally
+  title: git test api updated locally in postman
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
